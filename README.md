@@ -28,12 +28,12 @@ A lightweight, always-on-top floating assistant that accepts natural language co
 <br/>
 
 ## Preview
-![Floating Assistant Demo](/Demo/1 (1).png)
-![Floating Assistant Demo](/Demo/1 (2).png)
-![Floating Assistant Demo](/Demo/1 (3).png)
-![Floating Assistant Demo](/Demo/1 (4).png)
-![Floating Assistant Demo](/Demo/1 (5).png)
-![Floating Assistant Demo](/Demo/1 (6).png)
+![Floating Assistant Demo](/Demo/1Demo.png)
+![Floating Assistant Demo](/Demo/2Demo.png)
+![Floating Assistant Demo](/Demo/3Demo.png)
+![Floating Assistant Demo](/Demo/4Demo.png)
+![Floating Assistant Demo](/Demo/5Demo.png)
+![Floating Assistant Demo](/Demo/6Demo.png)
 <br/>
 ## Getting Started
 
