@@ -27,6 +27,9 @@ A lightweight, always-on-top floating assistant that accepts natural language co
 
 <br/>
 
+## Preview
+![Floating Assistant Demo](demo/1(1).png)
+<br/>
 ## Getting Started
 
 ### Prerequisites
