@@ -15,7 +15,7 @@ namespace AI_Champ
     public partial class MainWindow : Window
     {
         private static readonly HttpClient httpClient = new HttpClient();
-        private const string OPENROUTER_API_KEY = "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"; // Replace this
+        private const string OPENROUTER_API_KEY = "API_KEY";
         private const string MODEL = "tngtech/deepseek-r1t2-chimera:free";
 
         public MainWindow()
